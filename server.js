@@ -9,7 +9,6 @@ const app = express();
 // set up port
 const PORT = process.env.PORT || 3001;
 
-// NEED TO FIX FILE PATHS FOR DEVELOP DB HTMLS//
 
 // MIDDLEWARE
 app.use(express.urlencoded({ extended: true }));
