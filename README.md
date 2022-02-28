@@ -14,7 +14,7 @@ This application uses an Express.js back end to save and retrieve note data from
 
 ## Installation
 
-No installation is required. Follow this [link](https://git.heroku.com/afternoon-mountain-01224.git) to begin using the note taker app.
+No installation is required. Follow this [link](https://afternoon-mountain-01224.herokuapp.com/) to begin using the note taker app.
 
 ![home page](homepage.JPG)
 
@@ -46,4 +46,4 @@ Notes can be removed when no longer required using the delete icon.
   ## Questions
 
   If you have any questions, or additional feedback, please feel free to reach out on my
-  GitHub Account: (https://github.com/AshWeston) or send me an email at ash-w@live.com.au.
+  [GitHub Account](https://github.com/AshWeston) or send me an email at ash-w@live.com.au.
